@@ -1,15 +1,15 @@
 
 # Your Name
-Software Engineer | Portfolio: [salehaTanveer.github.io](https://salehaTanveer.github.io)
+Software Engineer | Portfolio: [salehaTanveer.github.io](https://www.github.com/salehaTanveer/)
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+A software engineer skilled in technical leadership, communication, and presentation. Adapt to working in a fast-paced and deadline-driven environment.
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Programming Languages: Python
+- Web Frameworks: Flask, Django
+- Databases: MySQL, PostgreSQL
+- Tools & Methods: Git Version control, Agile, REST API
 
 ## Experience
 **Company Name** (Dates)   
