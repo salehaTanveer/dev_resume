@@ -6,7 +6,7 @@ description: I code. # Fix hyphenation
 
 show_downloads: true # Fix spelling
 
-theme: jekyll-Midnight-theme 
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
