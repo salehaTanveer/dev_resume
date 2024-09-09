@@ -6,7 +6,7 @@ description: Data science and AI in agriculture - where bytes and botany blend f
 
 show_downloads: true # Fix spelling
 
-theme: jekyll-theme-minimal 
+theme: jekyll-rtd-theme 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
