@@ -1,9 +1,9 @@
 
 # Saleha Tanveer
 Software Engineer | Python <br>
-![image]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}): [salehaTanveer.github.io](https://www.github.com/salehaTanveer/) <br>
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}): [Saleha Tanveer](https://www.linkedin.com/in/saleha-tanveer/)  <br> 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}): saleha.zia900@gmail.com
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white): [salehaTanveer.github.io](https://www.github.com/salehaTanveer/) <br>
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [Saleha Tanveer](https://www.linkedin.com/in/saleha-tanveer/)  <br> 
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): saleha.zia900@gmail.com
 
 ## Summary
 A software engineer skilled in technical leadership, communication, and presentation. Adapt to working in a fast-paced and deadline-driven environment.
