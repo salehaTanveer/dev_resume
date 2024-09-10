@@ -1,8 +1,9 @@
 
 # Saleha Tanveer
 Software Engineer | Python <br>
-Github: [salehaTanveer.github.io](https://www.github.com/salehaTanveer/) <br>
-LinkedIn: [Saleha Tanveer](https://www.linkedin.com/in/saleha-tanveer/)
+![image]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}): [salehaTanveer.github.io](https://www.github.com/salehaTanveer/) <br>
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}): [Saleha Tanveer](https://www.linkedin.com/in/saleha-tanveer/)  <br> 
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}): saleha.zia900@gmail.com
 
 ## Summary
 A software engineer skilled in technical leadership, communication, and presentation. Adapt to working in a fast-paced and deadline-driven environment.
@@ -30,16 +31,17 @@ A software engineer skilled in technical leadership, communication, and presenta
 
 #### **Attech Ltd.** <em> 02/2023 - 07/2023</em>   
 ##### Software Engineer
-- Daily responsibilities include syncing with product and data analyst teams to path outflow for coming features.
-- Accustomed to communicating with remote team members for discussion-based implementations.
+- Daily responsibilities include syncing with product managers
+- Maintain communication with the remote team for updates and tasks.
 - Developed highly scalable, reusable features, while writing easy-to-maintain, performant, and readable code.
-- Developed and modified features using Django framework. Worked with ETL pipeline to extract data files from AWS S3 and upload data to database (RDB) in bulk.
-- Integrated notification center with segment
+- Resolve issues and perform code reviews for the team.
+- Developed and modify API's using Flask framework.
+- To enhance the performance and scalability of the Database.
 
 
 #### **GudangAda** <em> 08/2022 - 1/2023</em>   
 ##### Software Engineer
-- Daily responsibilities include syncing with product and data analyst teams to path outflow for coming features.
+- Daily responsibilities include syncing with product and data analyst teams to set a path flow for coming features.
 - Accustomed to communicating with remote team members for discussion-based implementations.
 - Developed highly scalable, reusable features, while writing easy-to-maintain, performant, and readable code.
 - Developed and modified features using Django framework. Worked with ETL pipeline to extract data files from AWS S3 and upload data to database (RDB) in bulk.
